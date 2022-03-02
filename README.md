@@ -39,3 +39,6 @@ Advisors: Masa Prodanovic & Christoph Arns
 
 ### Paper link:
 https://ahadmomin.github.io/files/Final%20Report-%20Ahad%20Momin.pdf
+
+This workflow is adapted for segmentation software which will be used for Digital Rock Physics Research.
+For 3D workflows please request it here. For more datasets, check out: https://www.digitalrocksportal.org/
